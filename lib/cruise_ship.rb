@@ -14,4 +14,5 @@ passengers.each do |room, name|
     winner = name
   end
 end
+puts winner
 end
