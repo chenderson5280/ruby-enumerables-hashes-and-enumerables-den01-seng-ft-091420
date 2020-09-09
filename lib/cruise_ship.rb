@@ -13,6 +13,7 @@ passengers.each do |room, name|
   if room == :suite_a && name.start_with?("A")
     winner = name
   end
+  puts winner
 end
-puts winner
+
 end
