@@ -16,4 +16,3 @@ passengers.each do |room, name|
 end
  winner
 end
-
